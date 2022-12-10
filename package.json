@@ -9,7 +9,7 @@
     "@sendgrid/mail": "7.2.6",
     "cookie-parser": "1.4.5",
     "dotenv": "8.2.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "http-status-codes": "2.1.4",
     "lodash": "4.17.20",
     "mongodb": "3.6.2",
